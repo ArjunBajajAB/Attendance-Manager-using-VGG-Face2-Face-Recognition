@@ -21,7 +21,7 @@ Python libraries used
 9. os
 10. pyscreenshot
 
-### First instell the above mentioned libraries
+### First install the above mentioned libraries
 
 ## How to run
 
