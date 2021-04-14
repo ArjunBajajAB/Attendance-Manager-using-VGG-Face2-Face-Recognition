@@ -1,4 +1,4 @@
-# Attendance Management System using Face Recognition
+# Attendance Management System using VGG Face2 Face Recognition
 # First Version
 
 ## Overview 
